@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -8,7 +7,7 @@
   </head>
   <body>
     <h1>Vote 4 chex mix guy!! </h1>
-    <img src = "![Screen_Shot_2023-06-06_at_1 18 36_AM-removebg-preview (1) (1)](https://github.com/Chexmixguy4prez/chexmix4president/assets/145052946/b694e156-ef61-4d76-8ad9-92f17e581137)"
+    <img src = "! [Screen_Shot_2023-06-06_at_1 18 36_AM-removebg-preview (1) (1)](https://github.com/Chexmixguy4prez/chexmix4president/assets/145052946/b694e156-ef61-4d76-8ad9-92f17e581137)">
       <style h1{text-align: right;}</style> 
 <h3><a href="https://docs.google.com/presentation/d/1ZxBUJ6wbwFytIVovjMi4UIpUYYPkBiyVVUvD4gGFGF8/edit?pli=1#slide=id.g277d3c54182_0_15"> vote for chex here </a></h3>
 vote4chexvote4chexvote4chexvote4chexvote4chexvote4chexvote4chexvote4chexvote4chexvote4chexvote4ch<br>exvote4chexvote4chexvote4chexvote4chexhelpvote4chexvote4chexvote4chexvote4chexvote4chexvote4chexv<br>ote4chexvote4chexvote4chexvote4chexvote4chexvote4chexvote4chexvote4chexvote4chexvote4chexvote4che
